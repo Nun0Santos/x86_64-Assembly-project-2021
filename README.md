@@ -10,3 +10,5 @@ After moving the project into the 8086 dosbox folder, open dosbox, cd into the p
 **ml \Zi TP.asm** - ***for compiling***
 
 **TP.exe** - ***for running***
+
+update
