@@ -56,7 +56,6 @@ dseg segment para public 'data'
 	nivel4 			db "Nivel 4 $"
 	nivel5 			db "Nivel 5 $"
 	msgNome			db "Introduza o seu nome:$"
- 	;TamNome   		db  10
 	StrNome			db "         $"
 	msgWinner       db "Parabens concluio todos os nives com sucesso!$"
 	pontos 			db  "  $"
