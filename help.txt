@@ -1,0 +1,11 @@
+ *****************************************************************************
+ *                             JOGO DO LABIRINTO                             *
+ *****************************************************************************
+ *                                                                           *
+ * - Apanha todas as letras que constituem a palavra para passares de nivel  *
+ *                                                                           *
+ * - Acaba o jogo em menos tempo para ganhares mais pontos                   *
+ *                                                                           *
+ * - Se o tempo acabar perdes o jogo                                         *
+ *                                                                           *
+ *****************************************************************************
